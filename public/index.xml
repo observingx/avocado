@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>My Observind Mind</title>
+    <link>https://observingx.netlify.com/</link>
+    <description>Recent content on My Observind Mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2020 22:50:00 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://observingx.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desc</title>
-      <link>http://example.org/about/desc/</link>
+      <link>https://observingx.netlify.com/about/desc/</link>
       <pubDate>Fri, 31 Jan 2020 22:50:00 -0800</pubDate>
       
-      <guid>http://example.org/about/desc/</guid>
+      <guid>https://observingx.netlify.com/about/desc/</guid>
       <description>&lt;p&gt;Hi, my name is Observing.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hustlaball Vegas</title>
-      <link>http://example.org/posts/20200120-hustlaball-vegas/</link>
+      <link>https://observingx.netlify.com/posts/20200120-hustlaball-vegas/</link>
       <pubDate>Mon, 20 Jan 2020 16:07:10 -0800</pubDate>
       
-      <guid>http://example.org/posts/20200120-hustlaball-vegas/</guid>
+      <guid>https://observingx.netlify.com/posts/20200120-hustlaball-vegas/</guid>
       <description>&lt;h2 id=&#34;eventvegas-rule-only-go-to-an-event-for-ones-self-if-you-cant-have-fun-alone-dont-go&#34;&gt;Event/Vegas Rule: Only go to an event for one&amp;rsquo;s self. If you can&amp;rsquo;t have fun alone, don&amp;rsquo;t go.&lt;/h2&gt;
 &lt;p&gt;If multiple events, compare the logistics (energy expenditure, cost, distance, expected kinds of attendees)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NYE 2020</title>
-      <link>http://example.org/posts/20200101-nye-2020/</link>
+      <link>https://observingx.netlify.com/posts/20200101-nye-2020/</link>
       <pubDate>Wed, 01 Jan 2020 17:18:11 -0800</pubDate>
       
-      <guid>http://example.org/posts/20200101-nye-2020/</guid>
+      <guid>https://observingx.netlify.com/posts/20200101-nye-2020/</guid>
       <description>&lt;p&gt;Talking Rule: Talk with your eyes, look with your chest.&lt;/p&gt;
 &lt;hr&gt;</description>
     </item>
     
     <item>
       <title>First Circuit Party</title>
-      <link>http://example.org/posts/20191231-first-circuit-party/</link>
+      <link>https://observingx.netlify.com/posts/20191231-first-circuit-party/</link>
       <pubDate>Sun, 29 Dec 2019 16:07:10 -0800</pubDate>
       
-      <guid>http://example.org/posts/20191231-first-circuit-party/</guid>
+      <guid>https://observingx.netlify.com/posts/20191231-first-circuit-party/</guid>
       <description>&lt;h2 id=&#34;club-rule-seize-the-day&#34;&gt;Club Rule: Seize the Day.&lt;/h2&gt;
 &lt;h2 id=&#34;communication-rule-lead-with-nonverbal&#34;&gt;Communication Rule: Lead with nonverbal.&lt;/h2&gt;</description>
     </item>

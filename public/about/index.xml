@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on My New Hugo Site</title>
-    <link>http://example.org/about/</link>
-    <description>Recent content in Abouts on My New Hugo Site</description>
+    <title>Abouts on My Observind Mind</title>
+    <link>https://observingx.netlify.com/about/</link>
+    <description>Recent content in Abouts on My Observind Mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2020 22:50:00 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://observingx.netlify.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desc</title>
-      <link>http://example.org/about/desc/</link>
+      <link>https://observingx.netlify.com/about/desc/</link>
       <pubDate>Fri, 31 Jan 2020 22:50:00 -0800</pubDate>
       
-      <guid>http://example.org/about/desc/</guid>
+      <guid>https://observingx.netlify.com/about/desc/</guid>
       <description>&lt;p&gt;Hi, my name is Observing.&lt;/p&gt;</description>
     </item>
     
