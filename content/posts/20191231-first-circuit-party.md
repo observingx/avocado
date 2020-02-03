@@ -1,5 +1,5 @@
 ---
-title: First Circuit Party
+title: Communication Rule
 date: 2019-12-29T16:07:10-08:00
 lastmod: 2019-12-29T16:07:10-08:00
 author: justme
@@ -10,10 +10,7 @@ tags: ["queer", "Life Rules"]
 draft: false
 ---
 
-Club Rule: Seize the Day.
----
-
-Communication Rule: Lead with nonverbal.
+Communication Rule: Always lead with nonverbal (eyes, body, and face) first and never with words. @My First Circuit Party.
 ---
 
 <!--more-->
@@ -27,7 +24,7 @@ Another thing I noticed was how much attention one gets if they're shirtless. I 
 Jealousy
 ---
 
-Well, when I was dancing on my own at the basement, one guy approached me. I was taken aback when he asked, "Can I give you a kiss?" I did not know how to respond. Well, my initial response was to put my "guard" on, which was reasonable. I also found him somewhat attractive (more than neutral), and if I were to rate my attraction to him, it was probably 6/10. 
+I must admit, I experienced jealousy that night. When I was dancing on my own at the basement, one guy approached me. I was taken aback when he asked, "Can I give you a kiss?" I did not know how to respond. Well, my initial response was to put my "guard" on, which was reasonable. I also found him somewhat attractive (more than neutral), and if I were to rate my attraction to him, it was probably 6/10. 
 
 However, because of my being pretty "guarded," I only let him kiss my cheek. He then stepped away, and after a few seconds, I realized I found him attractive and was about to "seize the day" and invite him to dance. However, at that point, he was already making out with another guy. I was jealous. It felt that I should have been that guy making out with him. And all of these happened in less than a minute from the moment he stepped away. 
 I noticed them took their kissing from the dance floor to a corner of the room, where they proceeded to get handsy and even give a blowjob. Suffice to say, I gave my attention to them for the next 30 minutes. It was a curse being approached and not "seizing" the opportunity soon enough. 
@@ -35,9 +32,9 @@ I noticed them took their kissing from the dance floor to a corner of the room, 
 After they took a break from their sensual exploration, I got a chance to exchange a few words with Daniel (that guy) and asked him, "Where you able to get your kiss?" He politely made a convo, introduced himself, and bid me farewell.
 My lesson that night were 2 folds:
 
-*  **Club Rule:** "Seize the day"
-*  **Communication Rule:** Lead with nonverbal (eyes, body and face) first and never with words. 
+*  **Communication Rule:** Always lead with nonverbal (eyes, body, and face) first and never with words. 
+*  **Club Rule:** "Seize the day" and "Be in the Moment"
 
-The night ended at 4AM for me. I went home and had to take a shower because my body had been in contact of too many sweaty guys that night. Overall, it was a fun night. It taught me the importance of leading with nonverbal when communicating and "seizing the day" right away, which forces one to be in the moment.
+The night ended at 4AM for me. I went home and had to take a shower because my body had been in contact with too many sweaty guys that night. Overall, it was a fun night. It taught me the importance of leading with nonverbal when communicating and "seizing the day" right away, which forces one to be in the moment.
 
 

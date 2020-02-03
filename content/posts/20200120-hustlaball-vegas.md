@@ -1,5 +1,5 @@
 ---
-title: Hustlaball Vegas
+title: Party/Event Rule
 date: 2020-01-20T16:07:10-08:00
 lastmod: 2020-01-20T16:07:10-08:00
 author: justme
@@ -10,10 +10,8 @@ tags: ["queer", "Life Rules"]
 draft: false
 ---
 
-Event/Vegas Rule: Only go to an event for one's self. If you can't have fun alone, don't go. 
+Party/Event Rule: Only go to an event for one's self (If you can't have fun alone, it's a bad sign). @Hustlaball Las Vegas.
 ---
-
-If multiple events, compare the logistics (energy expenditure, cost, distance, expected kinds of attendees)
 
 
 <!--more-->
@@ -34,7 +32,7 @@ On a different note, I was lucky enough that the drivers of my bus rides let me 
 What would have made Hustlaball over Masterbeat a good decision?
 
 * If I was in Vegas already, it would have made sense for Hustlaball.
-* If I knew how lame of a party it was, it would have made sense to not go there.
+* If I knew what kind of attendees were there, it would have made sense to not go there.
 
 Hustlaball Las Vegas
 ---
@@ -46,12 +44,11 @@ To make things worse, more than a third of attendees/customers were clothed olde
 
 It was also easy to be mesmerized by porn actors. Remember the psychology principle on familiarity and attraction: "Studies have shown that we are attracted to what is familiar to us, and that repeated exposure to certain people will increase our attraction toward them." It was in play here with the hired porn actor. When you see a familiar porn star face, you easily gravitate towards them.
 
-Lessons learned:
+Lesson learned:
+---
 
-* **Event/Vegas Rule:** Only go to an event for one's self. If you can't have fun alone, don't go. Much like going to the gym, you go there for your own sake. Not because to be part of a conglomerate, to be loved/liked, or to be given attention to. You go there and have fun even if it was just you by yourself.
-
-
-And if there are multiple events, compare their logistics (energy expenditure, cost, distance, expected kinds of attendees).
+* **Party/Event Rule:** Only go to an event for one's self. If you can't have fun alone, don't go. Much like going to the gym, you go there for your own sake. Not because to be part of a conglomerate, to be loved/liked, or to be given attention to. You go there and have fun even if it was just you by yourself.
+* And if there are multiple events, compare their logistics (energy expenditure, cost, distance, expected kinds of attendees).
 
 
 
