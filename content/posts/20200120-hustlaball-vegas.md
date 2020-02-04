@@ -5,7 +5,7 @@ lastmod: 2020-01-20T16:07:10-08:00
 author: justme
 cover: /img/20200120-hustlaball.jpg
 categories: ["queer"]
-tags: ["queer", "Life Rules"]
+tags: ["queer", "life rules"]
 # showcase: true
 draft: false
 ---
