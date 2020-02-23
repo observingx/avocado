@@ -4,8 +4,8 @@ date: 2019-11-04T13:10:03-08:00
 lastmod: 2020-02-03T13:10:03-08:00
 author: justme
 cover: /img/20191103-first-time-bottoming.jpg
-categories: ["queer"]
-tags: ["romance", "queer"]
+categories: ["queer", "romance"]
+tags: []
 # showcase: true
 draft: false
 --- 
